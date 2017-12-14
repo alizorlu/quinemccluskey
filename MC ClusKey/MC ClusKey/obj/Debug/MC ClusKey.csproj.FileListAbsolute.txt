@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\MC ClusKey\MC ClusKey\bin\Debug\MC ClusKey.exe.config
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\MC ClusKey\MC ClusKey\bin\Debug\MC ClusKey.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\MC ClusKey\MC ClusKey\bin\Debug\MC ClusKey.pdb
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\MC ClusKey\MC ClusKey\obj\Debug\MC ClusKey.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\MC ClusKey\MC ClusKey\obj\Debug\MC ClusKey.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\MC ClusKey\MC ClusKey\obj\Debug\MC ClusKey.pdb
